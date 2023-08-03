@@ -1,4 +1,4 @@
-public class Challenge {
+public class ConverterCmtoInch {
 
     public static void main(String[] args) {
 
